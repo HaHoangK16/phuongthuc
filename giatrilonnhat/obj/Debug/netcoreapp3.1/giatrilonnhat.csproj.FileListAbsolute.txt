@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\bin\Debug\netcoreapp3.1\giatrilonnhat.exe
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\bin\Debug\netcoreapp3.1\giatrilonnhat.deps.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\bin\Debug\netcoreapp3.1\giatrilonnhat.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\bin\Debug\netcoreapp3.1\giatrilonnhat.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\bin\Debug\netcoreapp3.1\giatrilonnhat.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\bin\Debug\netcoreapp3.1\giatrilonnhat.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrilonnhat\obj\Debug\netcoreapp3.1\giatrilonnhat.genruntimeconfig.cache
