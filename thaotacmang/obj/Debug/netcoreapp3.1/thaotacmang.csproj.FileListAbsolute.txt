@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\bin\Debug\netcoreapp3.1\thaotacmang.exe
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\bin\Debug\netcoreapp3.1\thaotacmang.deps.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\bin\Debug\netcoreapp3.1\thaotacmang.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\bin\Debug\netcoreapp3.1\thaotacmang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\bin\Debug\netcoreapp3.1\thaotacmang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\bin\Debug\netcoreapp3.1\thaotacmang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\thaotacmang\obj\Debug\netcoreapp3.1\thaotacmang.genruntimeconfig.cache
