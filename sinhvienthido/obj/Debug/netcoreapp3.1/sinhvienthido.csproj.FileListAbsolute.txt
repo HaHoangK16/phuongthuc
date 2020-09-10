@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.exe
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.deps.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\bin\Debug\netcoreapp3.1\sinhvienthido.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\sinhvienthido\obj\Debug\netcoreapp3.1\sinhvienthido.genruntimeconfig.cache
