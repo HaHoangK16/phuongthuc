@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\bin\Debug\netcoreapp3.1\giatrimang.exe
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\bin\Debug\netcoreapp3.1\giatrimang.deps.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\bin\Debug\netcoreapp3.1\giatrimang.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\bin\Debug\netcoreapp3.1\giatrimang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\bin\Debug\netcoreapp3.1\giatrimang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\bin\Debug\netcoreapp3.1\giatrimang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\giatrimang\obj\Debug\netcoreapp3.1\giatrimang.genruntimeconfig.cache
