@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\bin\Debug\netcoreapp3.1\xoamang.exe
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\bin\Debug\netcoreapp3.1\xoamang.deps.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\bin\Debug\netcoreapp3.1\xoamang.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\bin\Debug\netcoreapp3.1\xoamang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\bin\Debug\netcoreapp3.1\xoamang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\bin\Debug\netcoreapp3.1\xoamang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\xoamang\obj\Debug\netcoreapp3.1\xoamang.genruntimeconfig.cache
