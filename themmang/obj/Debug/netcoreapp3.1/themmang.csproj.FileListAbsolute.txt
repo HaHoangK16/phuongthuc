@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\bin\Debug\netcoreapp3.1\themmang.exe
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\bin\Debug\netcoreapp3.1\themmang.deps.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\bin\Debug\netcoreapp3.1\themmang.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\bin\Debug\netcoreapp3.1\themmang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\bin\Debug\netcoreapp3.1\themmang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\bin\Debug\netcoreapp3.1\themmang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.dll
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.pdb
+C:\Users\Admin\Desktop\Codegym\phuongthuc\themmang\obj\Debug\netcoreapp3.1\themmang.genruntimeconfig.cache
