@@ -1,2 +1,0 @@
-# phuongthuc
-Xin chao mn
